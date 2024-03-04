@@ -1,0 +1,7 @@
+{
+   "level_01": {
+      "spritesheets": {
+         "player.png": "require('./player.png')"
+      }
+   }
+}
