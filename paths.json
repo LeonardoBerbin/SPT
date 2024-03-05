@@ -9,21 +9,21 @@
    
    "main": {
      "background":{
-       "date": "04-03-2024T20:21:24:00",
-       "type": "Image",
+       "date": "04-03-2024T03:25:00",
+       "type": "Gif",
        "width": 1080,
        "height": 2240,
-       "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/main/background.jpg"
+       "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/main/background.gif"
       }
    },
    
    "menu":{
      "background":{
-       "date": "04-03-2024T20:21:24:00",
-       "type": "Image",
+       "date": "04-03-2024T03:25:00",
+       "type": "Gif",
        "width": 1080,
        "height": 2240,
-       "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/menu/background.jpg"
+       "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/menu/background.gif"
      }
    }
 }
