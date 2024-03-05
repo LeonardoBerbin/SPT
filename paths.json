@@ -1,11 +1,21 @@
 {
    "main": {
-      "background":{
-         "date": "04-03-2024T20:23:00",
-         "type": "Image",
-         "width": 1080,
-         "height": 2240,
-         "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/backgrounds/main.jpg"
+     "background":{
+       "date": "04-03-2024T20:21:24:00",
+       "type": "Image",
+       "width": 1080,
+       "height": 2240,
+       "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/main/background.jpg"
       }
+   },
+   
+   "menu":{
+     "background"{
+       "date": "04-03-2024T20:21:24:00",
+       "type": "Image",
+       "width": 1080,
+       "height": 2240,
+       "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/menu/background.jpg"
+     }
    }
 }
