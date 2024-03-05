@@ -1,7 +1,11 @@
 {
-   "level_01": {
-      "spritesheets": {
-         "player.png": "require('./player.png')"
+   "main": {
+      "background":{
+         "date": "04/03/2024 20:23"
+         "type": "Image",
+         "width": 1080,
+         "height": 2240,
+         "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/backgrounds/main.jpg"
       }
    }
 }
