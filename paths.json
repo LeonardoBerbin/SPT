@@ -1,4 +1,12 @@
 {
+   "general":{
+     "track":{
+       "date": "04-03-2024T00:19:00",
+       "type": "Sound",
+       "uri": "https://raw.githubusercontent.com/LeonardoBerbin/SPT/main/general/sound-track.mp3"
+     }
+   },
+   
    "main": {
      "background":{
        "date": "04-03-2024T20:21:24:00",
